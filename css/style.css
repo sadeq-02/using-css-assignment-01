@@ -1,0 +1,35 @@
+<style type="text/css">
+		
+		body{
+			background-attachment: fixed;
+		}
+
+		h1{
+			color: #8BC34A;
+		    text-align: center;
+		    text-shadow: 3px 3px 0px #8BC34A;
+		    font-size: 50px;
+		}
+
+		table{
+			border-color: #60c11ce0;
+			border-collapse: collapse;
+			margin: auto;
+			width: 80%;
+			box-shadow: 1px 0px 8px #3F51B5;
+		}
+		
+		td{			
+			background-color: #0717bf4d;
+    		color: #58d226;
+    		font-size: 20px;
+    		padding: 5px;
+		}
+
+		th{
+			background-color: #0417e28f;
+		    color: #b9ab3d;
+		    font-size: 25px;
+		}
+
+	</style>
